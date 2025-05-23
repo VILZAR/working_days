@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+.dragover {
+  background-color: oklch(98.5% 0.001 106.423);
+  opacity: 0.75;
+}
+
